@@ -53,7 +53,7 @@ const bebidas = [
 { nome: "BUDWEISER 269ML", preco: "R$ 5,00" },
 { nome: "BRAHMA 269ML", preco: "R$ 5,00" },
 { nome: "REFRIGERANTE", preco: "R$ 6,00" },
-{ nome: "AGUÁ", preco: "R$ 3,00" },
+{ nome: "ÁGUA", preco: "R$ 3,00" },
 ];
 
 
