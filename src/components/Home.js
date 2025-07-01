@@ -38,7 +38,7 @@ const espetos = [
 ];
 
 const especiais = [
-  { nome: "QUEIJO QUALHO", preco: "R$ 8,00" },
+  { nome: "QUEIJO COALHO", preco: "R$ 8,00" },
   { nome: "TULIPA", preco: "R$ 8,00" },
   { nome: "MEDALHÃO DE FRANGO", preco: "R$ 8,00" },
   { nome: "CORAÇÃO", preco: "R$ 8,00" },
